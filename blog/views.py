@@ -4,6 +4,7 @@ from .models import Post
 from .forms import PostForm
 from django.shortcuts import redirect
 from django.contrib.auth.decorators import login_required
+from django.contrib.auth import logout
 
 
 # Create your views here
@@ -69,4 +70,8 @@ def post_remove(request, pk):
     post = get_object_or_404(Post, pk=pk)
     post.delete()
     return redirect('blog.views.post_list')
+
+
+def logout_view(request):
+    logout(request)
 
