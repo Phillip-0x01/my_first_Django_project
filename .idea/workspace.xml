@@ -2,15 +2,376 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d835c96-4f72-42ab-9de0-908aeb11218e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/secret_key.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mysite/secrets.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/Python-ast.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/Python.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/abstract.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/asdl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/ast.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/bitset.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/boolobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/bufferobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/bytearrayobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/bytes_methods.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/bytesobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/cStringIO.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/cellobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/ceval.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/classobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/cobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/code.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/codecs.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/compile.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/complexobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/datetime.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/descrobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/dictobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/dtoa.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/enumobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/errcode.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/eval.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/fileobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/floatobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/frameobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/funcobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/genobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/graminit.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/grammar.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/import.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/intobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/intrcheck.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/iterobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/listobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/longintrepr.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/longobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/marshal.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/memoryobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/metagrammar.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/methodobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/modsupport.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/moduleobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/node.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/object.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/objimpl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/opcode.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/osdefs.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/parsetok.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/patchlevel.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pgen.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pgenheaders.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/py_curses.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pyarena.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pycapsule.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pyconfig.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pyctype.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pydebug.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pyerrors.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pyexpat.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pyfpe.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pygetopt.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pymacconfig.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pymactoolbox.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pymath.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pymem.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pyport.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pystate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pystrcmp.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pystrtod.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pythonrun.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/pythread.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/rangeobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/setobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/sliceobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/stringobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/structmember.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/structseq.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/symtable.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/sysmodule.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/timefuncs.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/token.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/traceback.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/tupleobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/ucnhash.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/unicodeobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/warnings.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/include/python2.7/weakrefobject.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/Setup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/Setup.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/Setup.local" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/config.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/config.c.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/install-sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/libpython2.7.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/libpython2.7.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/makesetup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/config/python.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/aliases.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/ascii.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/base64_codec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/big5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/big5hkscs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/bz2_codec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/charmap.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp037.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1006.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1026.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1140.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1250.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1251.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1252.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1253.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1254.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1255.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1256.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1257.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp1258.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp424.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp437.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp500.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp720.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp737.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp775.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp850.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp852.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp855.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp856.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp857.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp858.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp860.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp861.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp862.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp863.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp864.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp865.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp866.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp869.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp874.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp875.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp932.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp949.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/cp950.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/euc_jis_2004.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/euc_jisx0213.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/euc_jp.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/euc_kr.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/gb18030.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/gb2312.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/gbk.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/hex_codec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/hp_roman8.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/hz.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/idna.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso2022_jp.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso2022_jp_1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso2022_jp_2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso2022_jp_2004.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso2022_jp_3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso2022_jp_ext.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso2022_kr.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_10.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_11.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_13.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_14.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_15.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_16.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_6.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_7.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_8.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/iso8859_9.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/johab.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/koi8_r.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/koi8_u.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/latin_1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_arabic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_centeuro.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_croatian.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_cyrillic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_farsi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_greek.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_iceland.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_latin2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_roman.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_romanian.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mac_turkish.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/mbcs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/palmos.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/ptcp154.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/punycode.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/quopri_codec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/raw_unicode_escape.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/rot_13.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/shift_jis.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/shift_jis_2004.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/shift_jisx0213.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/string_escape.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/tis_620.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/undefined.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/unicode_escape.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/unicode_internal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/utf_16.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/utf_16_be.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/utf_16_le.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/utf_32.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/utf_32_be.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/utf_32_le.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/utf_7.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/utf_8.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/utf_8_sig.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/uu_codec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/encodings/zlib_codec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/ColorPicker.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/MacOS.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/Nav.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/OSATerminology.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/Python-2.7.10-py2.7.egg-info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_AE.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_AH.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_App.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_CF.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_CG.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_CarbonEvt.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Cm.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Ctl.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Dlg.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Drag.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Evt.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_File.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Fm.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Folder.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Help.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_IBCarbon.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Icn.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Launch.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_List.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Menu.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Mlte.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_OSA.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Qd.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Qdoffs.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Qt.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Res.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Scrap.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Snd.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_TE.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_Win.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_bisect.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_codecs_cn.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_codecs_hk.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_codecs_iso2022.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_codecs_jp.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_codecs_kr.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_codecs_tw.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_collections.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_csv.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_ctypes.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_ctypes_test.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_curses.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_curses_panel.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_elementtree.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_functools.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_hashlib.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_heapq.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_hotshot.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_io.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_json.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_locale.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_lsprof.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_multibytecodec.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_multiprocessing.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_random.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_scproxy.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_socket.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_sqlite3.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_ssl.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_struct.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_testcapi.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/_tkinter.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/array.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/audioop.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/autoGIL.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/binascii.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/bsddb185.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/bz2.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/cPickle.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/cStringIO.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/cmath.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/crypt.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/datetime.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/dbm.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/dl.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/fcntl.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/future_builtins.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/gestalt.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/grp.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/icglue.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/imageop.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/itertools.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/math.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/mmap.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/nis.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/operator.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/parser.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/pyexpat.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/readline.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/resource.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/select.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/strop.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/syslog.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/termios.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/time.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/unicodedata.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/lib-dynload/zlib.so" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/.Python" afterPath="$PROJECT_DIR$/MACvenv/.Python" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/bin/python2" afterPath="$PROJECT_DIR$/MACvenv/bin/python2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/bin/python2.7" afterPath="$PROJECT_DIR$/MACvenv/bin/python2.7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Django_1.iml" afterPath="$PROJECT_DIR$/.idea/Django_1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/UserDict.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/UserDict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/_abcoll.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/_abcoll.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/_weakrefset.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/_weakrefset.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/abc.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/abc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/codecs.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/codecs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/copy_reg.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/copy_reg.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/fnmatch.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/fnmatch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/genericpath.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/genericpath.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/linecache.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/linecache.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/locale.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/locale.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/ntpath.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/ntpath.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/os.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/os.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/posixpath.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/posixpath.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/re.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/re.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/Django-1.9.dist-info/RECORD" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/Django-1.9.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/django/contrib/admin/static/admin/fonts/LICENSE.txt" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/django/contrib/admin/static/admin/fonts/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/pip-8.1.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/pip-8.1.2.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/setuptools-21.2.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/setuptools-21.2.1.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/wheel-0.29.0.dist-info/RECORD" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/wheel-0.29.0.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/wheel/test/test_install.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/site-packages/wheel/test/test_install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/sre.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/sre.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/sre_compile.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/sre_compile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/sre_constants.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/sre_constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/sre_parse.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/sre_parse.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/stat.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/stat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/types.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/types.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MACvenv/lib/python2.7/warnings.py" afterPath="$PROJECT_DIR$/MACvenv/lib/python2.7/warnings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/admin.py" afterPath="$PROJECT_DIR$/blog/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/forms.py" afterPath="$PROJECT_DIR$/blog/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/models.py" afterPath="$PROJECT_DIR$/blog/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/CSS/blog.css" afterPath="$PROJECT_DIR$/blog/static/CSS/blog.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/post_edit.html" afterPath="$PROJECT_DIR$/blog/templates/blog/post_edit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/registration/login.html" afterPath="$PROJECT_DIR$/blog/templates/registration/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/views.py" afterPath="$PROJECT_DIR$/blog/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/settings.py" afterPath="$PROJECT_DIR$/mysite/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/urls.py" afterPath="$PROJECT_DIR$/mysite/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/urls.py" afterPath="$PROJECT_DIR$/blog/urls.py" />
     </list>
     <ignored path="Django_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,97 +396,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
+            <state vertical-scroll-proportion="0.0">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/registration/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22417583">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#307#316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="secret_key.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/secret_key.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post_draft_list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_draft_list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.12145749">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -146,13 +431,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/blog/admin.py" />
         <option value="$PROJECT_DIR$/mysite/__init__.py" />
         <option value="$PROJECT_DIR$/blog/static/CSS/blog.css" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
         <option value="$PROJECT_DIR$/blog/forms.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_edit.html" />
-        <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_draft_list.html" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/mysite/secrets.py" />
@@ -164,14 +447,16 @@
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/mysite/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/base.html" />
+        <option value="$PROJECT_DIR$/blog/admin.py" />
+        <option value="$PROJECT_DIR$/blog/models.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="1072" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="x" value="143" />
+    <option name="y" value="-942" />
+    <option name="width" value="1281" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -258,50 +543,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Django_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="registration" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -466,10 +707,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="1072" width="1874" height="1096" extended-state="6" />
+    <frame x="143" y="-942" width="1281" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22058824" sideWeight="0.49636552" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22326307" sideWeight="0.49636552" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -523,6 +764,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_draft_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -546,7 +813,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -563,9 +830,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="e#1097#1138#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +857,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -644,9 +909,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="e#1097#1138#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +936,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -711,9 +974,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-          <folding>
-            <element signature="e#1097#1138#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +993,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -772,13 +1033,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10909091">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -790,13 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -821,29 +1068,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_draft_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09350935">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -851,6 +1079,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#307#316#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64853555">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -863,54 +1118,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#307#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6512605">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_draft_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.16736402">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/registration/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
+        <state vertical-scroll-proportion="0.14644352">
           <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22417583">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.22267206">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39748955">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12145749">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
